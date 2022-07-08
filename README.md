@@ -27,6 +27,10 @@ Code with Kryptokrona is an initiative to help people learn more about programmi
 
 Code with Kryptokrona will occur every second Tuesday at 19-21 GMT+2 (Stockholm time) in Discord in our voicechannel "Code with Kryptokrona". For more information regarding the event please ask it in our Discord server. Link is on our website.
 
+Every time we meet in Discord we will have one person that will screen share either with live coding of doing some concrete implementation that is needed or a walkthrough of some technology how it functions. But as with every session it's an open forum where you can ask questions to experienced developers. 
+
+This setup might change during time so please keep update with this information here on this repository.
+
 # Contact
 
 Contact person of this event is Marcus Cvjeticanin, send a DM on Discord if you have any questions or in our general channel on Discord.
